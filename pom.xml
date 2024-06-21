@@ -44,12 +44,8 @@
 
     <!-- MODULES -->
     <modules>
-        <module>frontend</module>
-        <module>communication-patterns</module>
-        <module>reliability-patterns</module>
-        <module>observability-patterns</module>
-        <module>operational-patterns</module>
-        <module>security-patterns</module>
+        <module>services/ordering-service</module>
+        <module>services/warehouse-service</module>
     </modules>
 
     <!-- DEPENDENCIES -->
